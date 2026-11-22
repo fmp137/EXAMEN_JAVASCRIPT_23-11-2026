@@ -1,0 +1,8 @@
+/* En principio los formularios están ocultos */
+form {
+    display: none;
+}
+
+body {
+    background-color: #f8f9fa;
+}
